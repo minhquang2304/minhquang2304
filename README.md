@@ -5,9 +5,17 @@ I'm Quang, a future Computer Science student with some experience in Embedded Sy
 [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/minhquang2304)
 [![Hackster](https://github.com/user-attachments/assets/ec556e6f-b730-44e5-859c-93064e451b01) Hackster](https://www.hackster.io/minhquangnguyen2304)
 
-
-
-![minhquang2304 GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=minhquang2304&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
+<picture>
+  <source
+    srcset="![minhquang2304 GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=minhquang2304&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="![minhquang2304 GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=minhquang2304&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=minhquang2304&show_icons=true" />
+</picture><br>
 
 <a href="https://github.com/minhquang2304/Drowning-Detection-Device-using-ML">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=minhquang2304&repo=Drowning-Detection-Device-using-ML&theme=radical" />
