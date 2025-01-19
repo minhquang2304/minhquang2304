@@ -19,6 +19,9 @@ I'm Quang, a future Computer Science student with some experience in Embedded Sy
 <a href="https://github.com/minhquang2304/VEX-V5-Autonomous-Code">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=minhquang2304&repo=VEX-V5-Autonomous-Code&theme=gruvbox" />
 </a>    
+<a href="https://github.com/minhquang2304/cp-notebook-for-USACO-ICPC">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=minhquang2304&repo=cp-notebook-for-USACO-ICPC&theme=gruvbox" />
+</a>    
 
 <a href="https://github.com/minhquang2304/Guess-The-Number-Game">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=minhquang2304&repo=Guess-The-Number-Game&theme=onedark" />
