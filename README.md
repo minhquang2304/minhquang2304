@@ -19,13 +19,10 @@ I'm Quang, a future Computer Science student with some experience in Embedded Sy
 <a href="https://github.com/minhquang2304/VEX-V5-Autonomous-Code">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=minhquang2304&repo=VEX-V5-Autonomous-Code&theme=gruvbox" />
 </a>    
-<a href="https://github.com/minhquang2304/cp-notebook-for-USACO-ICPC">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=minhquang2304&repo=cp-notebook-for-USACO-ICPC&theme=dark" />
-</a>
 
-<a href="https://github.com/vietnh1009/Flappy-bird-deep-Q-learning-pytorch/">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vietnh1009&repo=Flappy-bird-deep-Q-learning-pytorch&theme=onedark" />
+<a href="https://github.com/minhquang2304/Guess-The-Number-Game">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=minhquang2304&repo=Guess-The-Number-Game&theme=onedark" />
 </a>    
-<a href="https://github.com/vietnh1009/Tetris-deep-Q-learning-pytorch/">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vietnh1009&repo=Tetris-deep-Q-learning-pytorch&theme=cobalt" />
+<a href="https://github.com/minhquang2304/Wireless-Light-Switch">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=minhquang2304&repo=Wireless-Light-Switch&theme=cobalt" />
 </a>
