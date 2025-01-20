@@ -7,14 +7,14 @@ I'm Quang, a future Computer Science student with some experience in Embedded Sy
 
 <picture>
   <source
-    srcset="![minhquang2304 GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=minhquang2304&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)"
+    srcset="https://github-readme-stats.vercel.app/api?username=minhquang2304&show_icons=true&theme=tokyonight&hide=stars,commits,prs,issues,contribs"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="![minhquang2304 GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=minhquang2304&show_icons=true&hide=contribs,prs,issues)"
+    srcset="https://github-readme-stats.vercel.app/api?username=minhquang2304&show_icons=true&hide=stars,commits,prs,issues,contribs"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=minhquang2304&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
 </picture><br>
 
 <a href="https://github.com/minhquang2304/Drowning-Detection-Device-using-ML">
