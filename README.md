@@ -6,7 +6,7 @@ I'm Quang, a future Computer Science student with some experience in Embedded Sy
 
 
 [![quang's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=minhquang2304&show_icons=true&include_all_commits=true&theme=tokyonight&hide=contribs,prs,issues#gh-dark-mode-only)](https://github.com/minhquang2304/github-readme-stats#gh-dark-mode-only)
-[![quang's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=minhquang2304&show_icons=true&include_all_commits=true&theme=default&hide=contribs,prs,issues#gh-light-mode-only)](https://github.com/minhquang2304/github-readme-stats#gh-light-mode-only) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minhquang2304&layout=compact&theme=tokyonight)
+[![quang's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=minhquang2304&show_icons=true&include_all_commits=true&theme=default&hide=contribs,prs,issues#gh-light-mode-only)](https://github.com/minhquang2304/github-readme-stats#gh-light-mode-only) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minhquang2304&theme=tokyonight)](https://github.com/minhquang2304/github-readme-stats)
 
 <a href="https://github.com/minhquang2304/Drowning-Detection-Device-using-ML#gh-dark-mode-only">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=minhquang2304&repo=Drowning-Detection-Device-using-ML&theme=radical" />
