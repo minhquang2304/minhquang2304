@@ -8,23 +8,23 @@ I'm Quang, a future Computer Science student with some experience in Embedded Sy
 [![quang's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=minhquang2304&show_icons=true&theme=tokyonight&hide=contribs,prs,issues#gh-dark-mode-only)](https://github.com/minhquang2304/github-readme-stats#gh-dark-mode-only)
 [![quang's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=minhquang2304&show_icons=true&theme=default&hide=contribs,prs,issues#gh-light-mode-only)](https://github.com/minhquang2304/github-readme-stats#gh-light-mode-only)
 
-<a href="https://github.com/minhquang2304/Drowning-Detection-Device-using-ML">
+<a href="https://github.com/minhquang2304/Drowning-Detection-Device-using-ML#gh-dark-mode-only">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=minhquang2304&repo=Drowning-Detection-Device-using-ML&theme=radical" />
 </a>    
-<a href="https://github.com/minhquang2304/Data-Sending-Code-For-Detection">
+<a href="https://github.com/minhquang2304/Data-Sending-Code-For-Detection#gh-dark-mode-only">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=minhquang2304&repo=Data-Sending-Code-For-Detection&theme=merko" />
 </a>
 
-<a href="https://github.com/minhquang2304/VEX-V5-Autonomous-Code">
+<a href="https://github.com/minhquang2304/VEX-V5-Autonomous-Code#gh-dark-mode-only">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=minhquang2304&repo=VEX-V5-Autonomous-Code&theme=gruvbox" />
 </a>    
-<a href="https://github.com/minhquang2304/cp-notebook-for-USACO-ICPC">
+<a href="https://github.com/minhquang2304/cp-notebook-for-USACO-ICPC#gh-dark-mode-only">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=minhquang2304&repo=cp-notebook-for-USACO-ICPC&theme=gruvbox" />
 </a>    
 
-<a href="https://github.com/minhquang2304/Guess-The-Number-Game">
+<a href="https://github.com/minhquang2304/Guess-The-Number-Game#gh-dark-mode-only">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=minhquang2304&repo=Guess-The-Number-Game&theme=onedark" />
 </a>    
-<a href="https://github.com/minhquang2304/Wireless-Light-Switch">
+<a href="https://github.com/minhquang2304/Wireless-Light-Switch#gh-dark-mode-only">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=minhquang2304&repo=Wireless-Light-Switch&theme=cobalt" />
 </a>
