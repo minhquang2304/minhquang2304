@@ -28,3 +28,24 @@ I'm Quang, a future Computer Science student with some experience in Embedded Sy
 <a href="https://github.com/minhquang2304/Wireless-Light-Switch#gh-dark-mode-only">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=minhquang2304&repo=Wireless-Light-Switch&theme=cobalt" />
 </a>
+
+<a href="https://github.com/minhquang2304/Drowning-Detection-Device-using-ML#gh-light-mode-only">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=minhquang2304&repo=Drowning-Detection-Device-using-ML" />
+</a>    
+<a href="https://github.com/minhquang2304/Data-Sending-Code-For-Detection#gh-light-mode-only">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=minhquang2304&repo=Data-Sending-Code-For-Detection" />
+</a>
+
+<a href="https://github.com/minhquang2304/VEX-V5-Autonomous-Code#gh-light-mode-only">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=minhquang2304&repo=VEX-V5-Autonomous-Code" />
+</a>    
+<a href="https://github.com/minhquang2304/cp-notebook-for-USACO-ICPC#gh-light-mode-only">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=minhquang2304&repo=cp-notebook-for-USACO-ICPC" />
+</a>    
+
+<a href="https://github.com/minhquang2304/Guess-The-Number-Game#gh-light-mode-only">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=minhquang2304&repo=Guess-The-Number-Game" />
+</a>    
+<a href="https://github.com/minhquang2304/Wireless-Light-Switch#gh-light-mode-only">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=minhquang2304&repo=Wireless-Light-Switch" />
+</a>
