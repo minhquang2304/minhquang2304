@@ -1,7 +1,9 @@
 ### Welcome to my page 👋👋👋
 I'm Quang, a future Computer Science student with some experience in Embedded Systems and IoT through personal projects. I'm interested in fields that combine mathematics and programming, such as Quantitative Finance or AI/ML, particularly in NLP, Deep Learning (DL), and Reinforcement Learning (RL).<br>
 ## 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+<p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="42" height="42" /></a>
+<a target="_blank" href="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" style="display: inline-block;"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="42" height="42" /></a></p>
 ## 📫 How to reach my projects:
 
 [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/minhquang2304) [![Hackster](https://github.com/user-attachments/assets/ec556e6f-b730-44e5-859c-93064e451b01) Hackster](https://www.hackster.io/minhquangnguyen2304)
@@ -53,5 +55,7 @@ I'm Quang, a future Computer Science student with some experience in Embedded Sy
 <a href="https://github.com/minhquang2304/Wireless-Light-Switch#gh-light-mode-only">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=minhquang2304&repo=Wireless-Light-Switch" />
 </a>
+
+
 
 
