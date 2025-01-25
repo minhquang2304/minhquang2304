@@ -14,11 +14,10 @@ I'm a future Computer Science student with some experience in Embedded Systems a
 
 <details>
  <summary><h3>👨‍💻 My Coding Journey</h3></summary>
-In high school, I first discovered the world of computing through Arduino and Espressif boards. The ability to create unique contraptions fascinated me so I built many, yes many projects, ranging from easy projects that you can easily search up on the internet like an alarm or a wireless light switch to a Machine Learning integrated project that earned me second place in a Science Fair and will compete in the Vietnam Science and Engineering Fair (ViSEF).
+In high school, I first discovered the world of computing through Arduino and Espressif boards. The ability to create unique contraptions using hardware and software fascinated me so I built many, yes many projects, ranging from easy projects that you can easily search on YouTube like an alarm clock, a radar system and a wireless light switch to a Machine Learning-integrated device that earned me second place in a Science Fair and is set to compete in the Vietnam Science and Engineering Fair (ViSEF).
 I also do some competitive programming as a hobby, achieving USACO Silver after a few months of preparation.
 Looking ahead, I want to contribute to the tech industry – whether by landing an internship at a big tech company or a top quant firm, or even launching my own startup.
-And in the next four year at university, I will mold the future.
-
+These tiny but complicated microcontrollers have shaped my journey and laid a solid foundation of knowledge and experiences for my future. My passion and hobby have the same starting point. Sometimes they intertwine, and, hopefully, they will be together at the end.
 
 
 
