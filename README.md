@@ -1,58 +1,22 @@
+# 🏄‍♂️ Welcome to my page
+I'm a future Computer Science student with some experience in Embedded Systems and IoT through personal projects. I'm interested in fields that combine mathematics and programming, such as Quantitative Finance or AI/ML, particularly in NLP, Deep Learning (DL), and Reinforcement Learning (RL).
 
-### Welcome to my page 👋👋👋
-I'm a future Computer Science student with some experience in Embedded Systems and IoT through personal projects. I'm interested in fields that combine mathematics and programming, such as Quantitative Finance or AI/ML, particularly in NLP, Deep Learning (DL), and Reinforcement Learning (RL).<br>
-## 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-## 📫 How to reach my projects:
+---
 
-[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/minhquang2304) [![Hackster](https://github.com/user-attachments/assets/ec556e6f-b730-44e5-859c-93064e451b01) Hackster](https://www.hackster.io/minhquangnguyen2304)
+### 💻 Languages and Tools
+
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+#
+### 📊 GitHub Profile Stats
+[![quang's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=minhquang2304&show_icons=true&include_all_commits=true&theme=dark&hide_border=true&icon_color=FFFFFF#gh-dark-mode-only)](https://github.com/minhquang2304/github-readme-stats#gh-dark-mode-only) <br>
+[![quang's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=minhquang2304&show_icons=true&include_all_commits=true&theme=default&hide_border=false#gh-light-mode-only)](https://github.com/minhquang2304/github-readme-stats#gh-light-mode-only) <br/>
+#
+
+<details>
+ <summary><h3>👨‍💻 My Coding Journey</h3></summary>
+   I started my coding journey as a naive computer science student with a passion to learn everything I could about this programming world - code, unix, linux, theory. And all the while, teaching myself iOS development with a dream to build my own app, but that soon got overshadowed by my desire to excel in Java. A desire that landed me a full-stack software engineering job upon graduation. However, I had another desire I had been pursuing throughout this time - YouTube content creation. I eventually ended up quitting my software engineering job to pursue YouTube full-time, and that has been my focus ever since. But there's something that's always bothered me about my journey - abandoning my dream of building my own app to pursue the safe route, a job. Now I've already taken the leap away from that safety net into this uncomfortable, unexplored world that it being a creator. And it worked out, but again, it became comfortable. It's easier to create a video than go out on a ledge and build my own product. I do have to eat, at the end of the day, but I think it's time. It's time to get uncomfortable again. I have a burning desire to get back on the horse, and fulfill that dream younger me had of building my own app, my own product. And in order to do that, I'll be implmementing a few measures to streamline my YouTube content to focus more time on fulfilling that dream - a dream that I'll be ready to tackle in 2023 due to the measure I'm putting in place now until the end of 2022. Don't wait up, because I'm coming.
 
 
-[![quang's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=minhquang2304&show_icons=true&include_all_commits=true&theme=tokyonight&hide=contribs,prs,issues&card_width=66#gh-dark-mode-only)](https://github.com/minhquang2304/github-readme-stats#gh-dark-mode-only) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minhquang2304&theme=tokyonight&card_width=363#gh-dark-mode-only)](https://github.com/minhquang2304/github-readme-stats#gh-dark-mode-only)
-[![quang's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=minhquang2304&show_icons=true&include_all_commits=true&theme=default&hide=contribs,prs,issues&card_width=66#gh-light-mode-only)](https://github.com/minhquang2304/github-readme-stats#gh-light-mode-only) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minhquang2304&card_width=363#gh-light-mode-only)](https://github.com/minhquang2304/github-readme-stats#gh-light-mode-only)
 
-<a href="https://github.com/minhquang2304/Drowning-Detection-Device-using-ML#gh-dark-mode-only">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=minhquang2304&repo=Drowning-Detection-Device-using-ML&theme=radical" />
-</a>    
-<a href="https://github.com/minhquang2304/Data-Sending-Code-For-Detection#gh-dark-mode-only">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=minhquang2304&repo=Data-Sending-Code-For-Detection&theme=merko" />
-</a>
-
-<a href="https://github.com/minhquang2304/VEX-V5-Autonomous-Code#gh-dark-mode-only">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=minhquang2304&repo=VEX-V5-Autonomous-Code&theme=gruvbox" />
-</a>    
-<a href="https://github.com/minhquang2304/cp-notebook-for-USACO-ICPC#gh-dark-mode-only">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=minhquang2304&repo=cp-notebook-for-USACO-ICPC&theme=gruvbox" />
-</a>    
-
-<a href="https://github.com/minhquang2304/Guess-The-Number-Game#gh-dark-mode-only">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=minhquang2304&repo=Guess-The-Number-Game&theme=onedark" />
-</a>    
-<a href="https://github.com/minhquang2304/Wireless-Light-Switch#gh-dark-mode-only">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=minhquang2304&repo=Wireless-Light-Switch&theme=cobalt" />
-</a>
-
-<a href="https://github.com/minhquang2304/Drowning-Detection-Device-using-ML#gh-light-mode-only">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=minhquang2304&repo=Drowning-Detection-Device-using-ML" />
-</a>    
-<a href="https://github.com/minhquang2304/Data-Sending-Code-For-Detection#gh-light-mode-only">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=minhquang2304&repo=Data-Sending-Code-For-Detection" />
-</a>
-
-<a href="https://github.com/minhquang2304/VEX-V5-Autonomous-Code#gh-light-mode-only">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=minhquang2304&repo=VEX-V5-Autonomous-Code" />
-</a>    
-<a href="https://github.com/minhquang2304/cp-notebook-for-USACO-ICPC#gh-light-mode-only">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=minhquang2304&repo=cp-notebook-for-USACO-ICPC" />
-</a>    
-
-<a href="https://github.com/minhquang2304/Guess-The-Number-Game#gh-light-mode-only">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=minhquang2304&repo=Guess-The-Number-Game" />
-</a>    
-<a href="https://github.com/minhquang2304/Wireless-Light-Switch#gh-light-mode-only">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=minhquang2304&repo=Wireless-Light-Switch" />
-</a>
 
 
