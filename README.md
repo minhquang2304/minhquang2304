@@ -9,7 +9,7 @@ I'm a future Computer Science student with some experience in Embedded Systems a
 #
 ### 📊 GitHub Profile Stats
 [![quang's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=minhquang2304&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true&icon_color=F8D866#gh-dark-mode-only)](https://github.com/minhquang2304/github-readme-stats#gh-dark-mode-only) <br>
-[![quang's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=minhquang2304&show_icons=true&include_all_commits=true&theme=graywhite&hide_border=false#gh-light-mode-only)](https://github.com/minhquang2304/github-readme-stats#gh-light-mode-only) <br/>
+[![quang's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=minhquang2304&show_icons=true&include_all_commits=true&theme=gruvbox_light&hide_border=false&text_color=808080#gh-light-mode-only)](https://github.com/minhquang2304/github-readme-stats#gh-light-mode-only) <br/>
 #
 
 <details>
