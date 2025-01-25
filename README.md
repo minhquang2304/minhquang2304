@@ -9,7 +9,7 @@ I'm a future Computer Science student with some experience in Embedded Systems a
 #
 ### 📫 How to reach my projects:
 &nbsp;[![GitHub](https://i.stack.imgur.com/tskMh.png)GitHub](https://github.com/minhquang2304) [![Hackster](https://github.com/user-attachments/assets/ec556e6f-b730-44e5-859c-93064e451b01)Hackster](https://www.hackster.io/minhquangnguyen2304)<br><br>
-**Note**: Visit my Hackster for detailed instructions, setup, and video demonstrations; check GitHub for the source code only.
+&nbsp;**Note**: Visit my Hackster for detailed instructions, setup, and video demonstrations; check GitHub for the source code only.
 #
 ### 📊 GitHub Profile Stats
 [![quang's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=minhquang2304&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true&icon_color=F8D866#gh-dark-mode-only)](https://github.com/minhquang2304/github-readme-stats#gh-dark-mode-only) <br>
