@@ -7,11 +7,14 @@ I'm a future Computer Science student with some experience in Embedded Systems a
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 #
+### 📫 How to reach my projects:
+&nbsp;[![GitHub](https://i.stack.imgur.com/tskMh.png)GitHub](https://github.com/minhquang2304) [![Hackster](https://github.com/user-attachments/assets/ec556e6f-b730-44e5-859c-93064e451b01)Hackster](https://www.hackster.io/minhquangnguyen2304)<br><br>
+**Note**: Visit my Hackster for detailed instructions, setup, and video demonstrations; check GitHub for the source code only.
+#
 ### 📊 GitHub Profile Stats
 [![quang's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=minhquang2304&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true&icon_color=F8D866#gh-dark-mode-only)](https://github.com/minhquang2304/github-readme-stats#gh-dark-mode-only) <br>
 [![quang's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=minhquang2304&show_icons=true&include_all_commits=true&theme=graywhite&hide_border=false#gh-light-mode-only)](https://github.com/minhquang2304/github-readme-stats#gh-light-mode-only) <br/>
 #
-
 <details>
  <summary><h3>👨‍💻 My Coding Journey</h3></summary>
 In high school, I first discovered the world of computing through Arduino and Espressif boards. The ability to create unique contraptions using hardware and software fascinated me so I built many, yes many projects, ranging from easy projects that you can easily search on YouTube like an alarm clock, a radar system and a wireless light switch to a Machine Learning-integrated device that earned me second place in a Science Fair and is set to compete in the Vietnam Science and Engineering Fair (ViSEF).
