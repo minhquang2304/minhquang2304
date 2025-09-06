@@ -1,5 +1,5 @@
 # 🏄‍♂️ Welcome to my page
-I'm a future Computer Science student with some experience in Embedded Systems and IoT through personal projects. I'm interested in fields that combine mathematics and programming, such as Quantitative Finance or AI/ML, particularly in NLP, Deep Learning (DL), and Reinforcement Learning (RL).
+
 
 ---
 
